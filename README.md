@@ -2,6 +2,12 @@
 
 I’m a software engineer and the founder of [Get Clever](https://getclever.co.uk/). I build and run web platforms, with much of my work behind the scenes in publishing and research.
 
+## Featured project
+
+**Silt Relay** is a crate-digging tool for a fictional drum & bass label. Search by sound and format, compare originals with reissues, and open the release notes behind each match.
+
+[Live demo](https://occultscientist.github.io/silt-relay/) · [Audit report](https://github.com/OccultScientist/silt-relay/blob/main/reports/audit.json)
+
 ## What I work on
 
 - **Web applications and APIs.** Laravel and PHP are my main tools for building web platforms. I use Python for data processing, automation and prototypes.
